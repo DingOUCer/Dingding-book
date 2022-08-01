@@ -3,11 +3,11 @@ hero:
   title: 丁丁的前端学习笔记
   desc: 欢迎您的光临！
   actions:
-    - text: getting-started
-      link: /getting-started
+    - text: 此处开始
+      link: /此处开始
 features:
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
-    title: Feature 1
+  - icon: https://www.iconfont.cn/search/index?searchType=icon&q=vue
+    title: Vue.js
     desc: Balabala
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/d60657df-0822-4631-9d7c-e7a869c2f21c/k79dmz3q_w126_h126.png
     title: Feature 2
