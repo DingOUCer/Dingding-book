@@ -1,7 +1,7 @@
 import { defineConfig } from 'dumi';
 const repo = 'Dingding-book';
 export default defineConfig({
-  title: "Dingding's book",
+  title: 'Dingding-book',
   mode: 'site',
   // more config: https://d.umijs.org/config
   devServer: {
