@@ -1,7 +1,7 @@
 ---
 hero:
-  title: Site Name
-  desc: dumi site app 脚手架
+  title: 丁丁的前端学习笔记
+  desc: 欢迎您的光临！
   actions:
     - text: 快速上手
       link: /getting-started
@@ -17,5 +17,3 @@ features:
     desc: Balabala
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
 ---
-
-## Hello dumi!

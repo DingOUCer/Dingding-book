@@ -17,5 +17,3 @@ features:
     desc: Balabala
 footer: Open-source MIT Licensed | Copyright © 2022<br />Powered by [DingOUCer](https://d.umijs.org)
 ---
-
-## Hello dumi!
