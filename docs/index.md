@@ -4,7 +4,7 @@ hero:
   desc: 欢迎您的光临！
   actions:
     - text: 此处开始
-      link: /此处开始
+      link: /start
 features:
   - icon: https://cn.vuejs.org/images/logo.svg
     title: Vue.js
